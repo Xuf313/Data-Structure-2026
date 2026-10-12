@@ -1,0 +1,33 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+void input(){
+     string mymy ;
+     cout << "Done read_data()" << endl ;
+     cin >> mymy ;
+}
+
+int  prepro(){
+     cout << "Done 전처리 과정이 끝 ()" << endl ;
+     return 0 ;
+}
+
+
+void computing(){
+     cout << "Done computing()" << endl ;
+}
+
+
+void output(){
+     cout << "Done output( )" << endl ;
+}
+
+int main() {
+
+    input    ( ) ;   // Stepwise Refinement
+    prepro   ( ) ;
+    computing( ) ;
+    output   ( ) ;
+
+    return 0 ;
+} //

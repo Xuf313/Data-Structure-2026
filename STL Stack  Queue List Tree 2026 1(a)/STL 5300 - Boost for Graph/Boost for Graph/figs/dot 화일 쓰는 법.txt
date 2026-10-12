@@ -1,0 +1,14 @@
+javascript: (function () {
+   var cE = 'object',
+   eE = document.querySelectorAll('embed');
+   for (i = 0; E = eE[i]; i++) {
+     N = document.createElement(cE);
+     for (j in E.attributes) {
+       A = E.attributes[j];
+       if ((A.name != undefined) && (A.value != undefined)) {
+         N.setAttribute((A.name.toLowerCase() == 'src') ? 'data' : A.name, A.value)
+       }
+     }
+     E.parentNode.replaceChild(N, E)
+   }
+ }) ()

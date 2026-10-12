@@ -1,0 +1,12 @@
+일단 *.dot 파일을 만든다.
+digraph G {
+main -> parse -> execute;
+main -> init;
+main -> cleanup;
+execute -> make_string;
+execute -> printf
+init -> make_string;
+main -> printf;
+execute -> compare;  }
+ dot  프로그램으로 ps를 만들어 낸다.
+ dot -Tps  sample.dot -o sample.ps

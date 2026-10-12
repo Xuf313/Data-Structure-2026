@@ -1,0 +1,8 @@
+b.txt
+STL vector Pitfall of reserve( ).cpp
+STL vector Pitfall of reserve( ).exe
+STL vector Pitfall of reserve( ).o
+Vector Apply 0100 - РЬСп Vector 1(b)
+Vector Apply 0200 - Deep Vector 2(e)
+Vector Apply 0400 - Practice 2(b)
+Vector Apply 0500 - Allocator 1(a)

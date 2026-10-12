@@ -1,0 +1,11 @@
+arrayfunc - 130- vector size issue.cpp
+b.txt
+Vector 0100 - Basics Part-1 2(c)
+Vector 0120 - Basics Part-2 2(b)
+Vector 0150 - iterators 1(e)
+Vector 0160 - Range-based loop 1(d)
+Vector 0210 - Operation Part-1 1(d)
+Vector 0220 - Operation Part-2 1(b)
+Vector 0280 - pop( ) and remove( ) 1(c)
+Vector 0300 - Size matters 1(c)
+Vector 0320 - Techs more 1(b)
